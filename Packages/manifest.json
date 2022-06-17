@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "jp.keijiro.kino.post-processing": "2.1.15",
+    "jp.keijiro.metawire": "1.0.1",
+    "jp.keijiro.shadergraphassets": "2.5.1",
+    "jp.keijiro.vfxgraphassets": "1.0.10"
+  },
+  "scopedRegistries": [
+    {
+      "name": "Keijiro",
+      "url": "https://registry.npmjs.com",
+      "scopes": [
+        "jp.keijiro"
+      ]
+    }
+  ]
+}
