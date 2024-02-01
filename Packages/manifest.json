@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.unity.recorder": "5.0.0",
     "com.unity.timeline": "1.8.6",
     "jp.keijiro.kino.post-processing": "2.1.15",
     "jp.keijiro.metawire": "2.0.0",
