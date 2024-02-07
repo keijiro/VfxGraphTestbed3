@@ -30,7 +30,7 @@
     },
     "com.unity.mathematics": {
       "version": "1.2.6",
-      "depth": 2,
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -91,7 +91,7 @@
       }
     },
     "com.unity.rendering.light-transport": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "depth": 3,
       "source": "builtin",
       "dependencies": {
@@ -163,6 +163,15 @@
       "source": "registry",
       "dependencies": {
         "com.unity.render-pipelines.high-definition": "7.4.1"
+      },
+      "url": "https://registry.npmjs.com"
+    },
+    "jp.keijiro.klak.motion": {
+      "version": "1.1.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.mathematics": "1.2.1"
       },
       "url": "https://registry.npmjs.com"
     },
