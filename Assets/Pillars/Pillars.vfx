@@ -2647,6 +2647,7 @@ MonoBehaviour:
     position: {x: -10, y: 1473}
     expandedSlots: []
     expanded: 0
+    supecollapsed: 0
   - m_Id: 1
     linkedSlots:
     - outputSlot: {fileID: 114350483966675136}
@@ -2654,6 +2655,7 @@ MonoBehaviour:
     position: {x: -341, y: 894}
     expandedSlots: []
     expanded: 0
+    supecollapsed: 0
 --- !u!114 &114350483966675136
 MonoBehaviour:
   m_ObjectHideFlags: 0
